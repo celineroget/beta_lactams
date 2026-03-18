@@ -51,5 +51,7 @@ conda install -c conda-forge rdkit
 ## License
 MIT
 
-**References**  
-[1] [S3-GFN preprint](https://arxiv.org/abs/2602.04119)
+---
+## Reference
+
+Kim et al., *Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors*, arXiv 2026. [https://arxiv.org/abs/2602.04119](https://arxiv.org/abs/2602.04119)
