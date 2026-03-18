@@ -1,0 +1,2 @@
+fake_zinc_1.smi
+fake_zinc_2.smi

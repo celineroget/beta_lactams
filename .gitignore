@@ -1,0 +1,34 @@
+# large datasets
+# large ZINC datasets
+data/ZINC/ZINC/
+data/ZINC/ZINC15.zip
+data/ZINC/zinc_out*/
+data/ZINC/zinc_groups/
+data/ZINC/fake_zinc_groups/
+data/ZINC/fake_zinc_out/
+data/ZINC/zinc_out_newSMARTS/
+data/ZINC/beta_lactams_zinc_all.csv
+data/ZINC/zinc_out_*.csv
+
+#large PUBCHEM datasets
+data/pubchem/pubchem-canonical/
+data/pubchem/pubchem_canonical.zip
+
+# results CSVs (large)
+data/ZINC/zinc_out*/
+data/ZINC/beta_lactams_zinc_all.csv
+data/pubchem/beta_lactams_pubchem*.csv
+
+# cluster job outputs
+data/sbatch_outputs/
+data/sbatch_outputs_newSMARTS/
+
+# old/deprecated files
+old/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebook checkpoints
+.ipynb_checkpoints/
